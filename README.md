@@ -12,7 +12,7 @@ My career has taken me to companies large and small, across the globe, and throu
 <p style="padding:3px;">
 When I am not plugging away at some JavaScript, I am spending time with my wife, daughter, and two corgis in the Dallas Texas area.
 </p>
-</div><div style="width:50%;display:inline-block;"><img style="border-radius:10px;" src="assets/omyac.jpg"/></div>
+</div><div style="width:50%;display:inline-block;"><img style="border-radius:10px;" src="omyac.jpg"/></div>
 </div>
 
 <div style="max-width:50%;">
@@ -20,9 +20,9 @@ When I am not plugging away at some JavaScript, I am spending time with my wife,
 
 I'm a specialist in AWS cloud-native and modern applications development. My typical toolset revolves around CDK, Typescript, JavaScript, NodeJS, Tailwind CSS, and similar tools.  I consult full-time but often contribute to local non-profit projects in my area.
 <div style="display:flex;justify-content:space-evenly" > 
-<img src="assets/js.svg">
-<img src="assets/nodejs.svg">
-<img src="assets/react.svg">
+<img src="js.svg">
+<img src="nodejs.svg">
+<img src="react.svg">
 </div>
 <br/>
 <br/>
